@@ -259,7 +259,7 @@ body {
 }
 
 #hk:hover {
-  color: #ea4a4a;
+  color: #80CFB4;
 }
 /*
 .container-fluid>.navbar-collapse, .container-fluid>.navbar-header, .container>.navbar-collapse, .container>.navbar-header {
@@ -351,12 +351,12 @@ body {
 }
 
 #schedule {
-  background-color: #ea4a4a;
+  background-color: #80CFB4;
   color: white;
 }
 
 #prizes {
-  background-color: #ea4a4a;
+  background-color: #80CFB4;
   background-image: url("../img/londonskyline.png");
   background-repeat: no-repeat;
   background-position: bottom;
@@ -387,12 +387,12 @@ body {
 
 #hkcards {
   display: block;
-  background-color: #ea4a4a;
+  background-color: #80CFB4;
   box-shadow: 10px 10px 5px #888888;
 }
 
 #hkcards .challenge-header {
-  background-color: #ea4a4a;
+  background-color: #80CFB4;
   color: white;
   width: 100%;
   height: 100%;
@@ -452,15 +452,15 @@ body {
 
 .schedule-text {
   background-color: white;
-  box-shadow: 10px 10px 5px #b83b3b;
+  box-shadow: 10px 10px 5px #4c7c6c;
   padding: 20px;
   width: 250px;
   margin: auto;
-  min-height: 300px;
+  height: 360px;
 }
 
 .schedule-text h1 {
-  color: #ea4a4a;
+  color: #80CFB4;
   text-transform: uppercase;
   font-weight: bold;
   font-size: 42px;
@@ -468,14 +468,14 @@ body {
 }
 
 .schedule-text h2 {
-  color: #ea4a4a;
+  color: #5597d9;
   text-transform: uppercase;
   font-weight: bold;
   font-size: 21px;
 }
 
 .schedule-text h3 {
-  color: #ea4a4a;
+  color: #80CFB4;
   font-weight: bold;
   text-transform: uppercase;
   font-style: italic;
