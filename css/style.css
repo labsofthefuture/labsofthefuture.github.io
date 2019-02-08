@@ -151,7 +151,7 @@ body {
 
 .arrow {
   background-color: #5597d9;
-  height: 20%;
+  height: 100px;
   font-family: Brown, Montserrat;
 }
 
@@ -286,8 +286,17 @@ body {
 
 #navlogo a img {
   height: 40px;
-  margin-top: 10px;
-  margin-bottom: 10px;
+  margin: 15px;
+}
+
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle {
+  background-color: white;
+  margin: 15px 30px 15px 30px;
+}
+
+.navbar-default .navbar-nav li {
+  text-align: right;
+  margin-right: 15px;
 }
 
 .job a i {
@@ -455,7 +464,7 @@ body {
   box-shadow: 10px 10px 5px #4c7c6c;
   padding: 20px;
   width: 250px;
-  margin: auto;
+  margin: 25px auto 25px auto;
   height: 360px;
 }
 
