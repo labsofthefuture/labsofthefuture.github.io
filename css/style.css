@@ -495,3 +495,18 @@ body {
   color: black;
   font-size: 14px;
 }
+
+.long {
+  padding: 20px;
+  width: 100%;
+  margin: 25px auto 25px auto;
+  height: 180px;
+}
+
+.long h1 {
+  color: #80CFB4;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 32px;
+  line-height: 0px;
+}
