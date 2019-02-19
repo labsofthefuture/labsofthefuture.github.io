@@ -123,6 +123,10 @@ body {
   background-color: #36454f;
 }
 
+#featured {
+  background-color: white;
+}
+
 #clients {
   background-color: #5597d9;
 }
