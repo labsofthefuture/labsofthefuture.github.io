@@ -110,6 +110,7 @@ body {
 
 #attendees img {
   width: 100%;
+  max-width: 100px;
 }
 
 .prize-list img {
