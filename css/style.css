@@ -108,6 +108,10 @@ body {
   width: 150px;
 }
 
+#attendees img {
+  width: 100%;
+}
+
 .prize-list img {
   width: 150px;
 }
