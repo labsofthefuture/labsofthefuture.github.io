@@ -12,8 +12,8 @@
 
 }
 
-body {
-  /*font-family: Brown;*/
+html {
+  max-width: 100%;
 }
 
 #tagline {
@@ -518,4 +518,11 @@ body {
   font-weight: bold;
   font-size: 32px;
   line-height: 0px;
+}
+
+.grow { transition: all .2s ease-in-out; }
+
+.grow:hover {
+  transform: scale(1.1);
+  background-color: #fed136;
 }
